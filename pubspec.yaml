@@ -1,11 +1,11 @@
 name: untitled14
 description: A new Flutter project.
 
-publish_to:
+publish_to: 'none'
 version: 1.0.0+1
 
 environment:
-  sdk:
+  sdk: '>=3.0.2 <4.0.0'
 
 
 dependencies:
